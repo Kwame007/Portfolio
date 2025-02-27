@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img alt="Portfolio" src="/screen-shot.png" width="90%">
-</div>
+</div> -->
 
 # Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
 
