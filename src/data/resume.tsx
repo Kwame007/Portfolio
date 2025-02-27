@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Clement Adjei",
   initials: "CA",
-  url: "https://dillion.io",
+  url: "https://portfolio-kwame007s-projects.vercel.app/",
   location: "Accra, GH",
   locationLink: "https://www.google.com/maps/place/accra",
   description:
@@ -255,7 +255,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "https://github.com/Kwame007/unicorns-firebase",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -264,7 +264,7 @@ export const DATA = {
     },
     {
       title: "World Wise",
-      href: "https://automatic.chat",
+      href: "/",
       dates: "April 2023 - March 2024",
       active: true,
       id:'4',
@@ -280,12 +280,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://automatic.chat",
+          href: "/",
           icon: <Icons.globe className="size-3" />,
         },
         {
             type: "Source",
-            href: "https://github.com/magicuidesign/magicui",
+            href: "https://github.com/kwame007",
             icon: <Icons.github className="size-3" />,
           },
       ],
